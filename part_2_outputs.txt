@@ -1,0 +1,63 @@
+Question 1 Outputs:
+root@DESKTOP-BDCMKJ5:~/projects/SYSC4001_A2_P2# ./part2_process
+Parent PID: 8734 created child PID: 8735
+Parent Counter: 0
+Child started PID: 8735
+Child Counter: 0
+Parent Counter: 1
+Child Counter: 1
+Parent Counter: 2
+Child Counter: 2
+Parent Counter: 3
+Child Counter: 3
+Parent Counter: 4
+Child Counter: 4
+Child Counter: 5
+Parent Counter: 5
+Child Counter: 6
+Parent Counter: 6
+Child Counter: 7
+Parent Counter: 7
+Child Counter: 8
+Parent Counter: 8
+Child Counter: 9
+Parent Counter: 9
+Child Counter: 10
+Parent Counter: 10
+Child Counter: 11
+Parent Counter: 11
+Child Counter: 12
+Parent Counter: 12
+Child Counter: 13
+Parent Counter: 13
+Parent Counter: 14
+Child Counter: 14
+Child Counter: 15
+Parent Counter: 15
+Child Counter: 16
+Parent Counter: 16
+Child Counter: 17
+Parent Counter: 17
+Parent Counter: 18
+Child Counter: 18
+Child Counter: 19
+Parent Counter: 19
+Child Counter: 20
+Parent Counter: 20
+Parent Counter: 21
+Child Counter: 21
+Child Counter: 22
+Parent Counter: 22
+Child Counter: 23
+Parent Counter: 23
+Child Counter: 24
+Parent Counter: 24
+Child Counter: 25
+Parent Counter: 25
+Child Counter: 26
+Parent Counter: 26
+Child Counter: 27
+Parent Counter: 27
+Terminated
+
+Question 2 Outputs:
