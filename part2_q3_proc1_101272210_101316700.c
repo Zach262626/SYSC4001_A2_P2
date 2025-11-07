@@ -27,9 +27,9 @@ int main() {
         
         while (waitpid(pid, NULL, WNOHANG) == 0) {
             if (counter % 3 == 0) {
-            printf("P1 Cycle number: %d - %d is a multiple of 3\n", cycle, counter);
+                printf("P1 Cycle number: %d - %d is a multiple of 3\n", cycle, counter);
             } else {
-            printf("P1 Cycle number: %d\n", cycle);
+                printf("P1 Cycle number: %d\n", cycle);
             }
             counter++;
             cycle++;

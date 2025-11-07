@@ -296,3 +296,2023 @@ P2 Cycle number: 114 - -114 is a multiple of 3
 P2 Cycle number: 115
 P1 Cycle number: 115
 Terminated
+
+Question 3 Outputs:
+root@DESKTOP-BDCMKJ5:~/projects/SYSC4001_A2_P2# ./q3_proc1
+parent PID: 16382 created child PID: 16383
+P1 Cycle number: 1
+child started PID: 16383, parent PID: 16382
+P2 Cycle number: 0 - 0 is a multiple of 3
+P1 Cycle number: 2
+P2 Cycle number: 1
+P1 Cycle number: 3 - 3 is a multiple of 3
+P2 Cycle number: 2
+P1 Cycle number: 4
+P2 Cycle number: 3 - -3 is a multiple of 3
+P1 Cycle number: 5
+P2 Cycle number: 4
+P1 Cycle number: 6 - 6 is a multiple of 3
+P2 Cycle number: 5
+P1 Cycle number: 7
+P2 Cycle number: 6 - -6 is a multiple of 3
+P1 Cycle number: 8
+P2 Cycle number: 7
+P1 Cycle number: 9 - 9 is a multiple of 3
+P2 Cycle number: 8
+P1 Cycle number: 10
+P2 Cycle number: 9 - -9 is a multiple of 3
+P1 Cycle number: 11
+P2 Cycle number: 10
+P1 Cycle number: 12 - 12 is a multiple of 3
+P2 Cycle number: 11
+P1 Cycle number: 13
+P2 Cycle number: 12 - -12 is a multiple of 3
+P1 Cycle number: 14
+P2 Cycle number: 13
+P1 Cycle number: 15 - 15 is a multiple of 3
+P2 Cycle number: 14
+P1 Cycle number: 16
+P2 Cycle number: 15 - -15 is a multiple of 3
+P2 Cycle number: 16
+P1 Cycle number: 17
+P2 Cycle number: 17
+P1 Cycle number: 18 - 18 is a multiple of 3
+P2 Cycle number: 18 - -18 is a multiple of 3
+P1 Cycle number: 19
+P2 Cycle number: 19
+P1 Cycle number: 20
+P2 Cycle number: 20
+P1 Cycle number: 21 - 21 is a multiple of 3
+P2 Cycle number: 21 - -21 is a multiple of 3
+P1 Cycle number: 22
+P2 Cycle number: 22
+P1 Cycle number: 23
+P2 Cycle number: 23
+P1 Cycle number: 24 - 24 is a multiple of 3
+P2 Cycle number: 24 - -24 is a multiple of 3
+P1 Cycle number: 25
+P2 Cycle number: 25
+P1 Cycle number: 26
+P2 Cycle number: 26
+P1 Cycle number: 27 - 27 is a multiple of 3
+P2 Cycle number: 27 - -27 is a multiple of 3
+P1 Cycle number: 28
+P2 Cycle number: 28
+P1 Cycle number: 29
+P2 Cycle number: 29
+P1 Cycle number: 30 - 30 is a multiple of 3
+P2 Cycle number: 30 - -30 is a multiple of 3
+P1 Cycle number: 31
+P2 Cycle number: 31
+P1 Cycle number: 32
+P2 Cycle number: 32
+P1 Cycle number: 33 - 33 is a multiple of 3
+P2 Cycle number: 33 - -33 is a multiple of 3
+P1 Cycle number: 34
+P2 Cycle number: 34
+P1 Cycle number: 35
+P2 Cycle number: 35
+P1 Cycle number: 36 - 36 is a multiple of 3
+P2 Cycle number: 36 - -36 is a multiple of 3
+P1 Cycle number: 37
+P2 Cycle number: 37
+P1 Cycle number: 38
+P2 Cycle number: 38
+P1 Cycle number: 39 - 39 is a multiple of 3
+P2 Cycle number: 39 - -39 is a multiple of 3
+P1 Cycle number: 40
+P2 Cycle number: 40
+P1 Cycle number: 41
+P1 Cycle number: 42 - 42 is a multiple of 3
+P2 Cycle number: 41
+P1 Cycle number: 43
+P2 Cycle number: 42 - -42 is a multiple of 3
+P2 Cycle number: 43
+P1 Cycle number: 44
+P2 Cycle number: 44
+P1 Cycle number: 45 - 45 is a multiple of 3
+P2 Cycle number: 45 - -45 is a multiple of 3
+P1 Cycle number: 46
+P2 Cycle number: 46
+P1 Cycle number: 47
+P2 Cycle number: 47
+P1 Cycle number: 48 - 48 is a multiple of 3
+P2 Cycle number: 48 - -48 is a multiple of 3
+P1 Cycle number: 49
+P2 Cycle number: 49
+P1 Cycle number: 50
+P1 Cycle number: 51 - 51 is a multiple of 3
+P2 Cycle number: 50
+P1 Cycle number: 52
+P2 Cycle number: 51 - -51 is a multiple of 3
+P1 Cycle number: 53
+P2 Cycle number: 52
+P1 Cycle number: 54 - 54 is a multiple of 3
+P2 Cycle number: 53
+P2 Cycle number: 54 - -54 is a multiple of 3
+P1 Cycle number: 55
+P2 Cycle number: 55
+P1 Cycle number: 56
+P2 Cycle number: 56
+P1 Cycle number: 57 - 57 is a multiple of 3
+P2 Cycle number: 57 - -57 is a multiple of 3
+P1 Cycle number: 58
+P2 Cycle number: 58
+P1 Cycle number: 59
+P1 Cycle number: 60 - 60 is a multiple of 3
+P2 Cycle number: 59
+P1 Cycle number: 61
+P2 Cycle number: 60 - -60 is a multiple of 3
+P1 Cycle number: 62
+P2 Cycle number: 61
+P1 Cycle number: 63 - 63 is a multiple of 3
+P2 Cycle number: 62
+P1 Cycle number: 64
+P2 Cycle number: 63 - -63 is a multiple of 3
+P1 Cycle number: 65
+P2 Cycle number: 64
+P1 Cycle number: 66 - 66 is a multiple of 3
+P2 Cycle number: 65
+P1 Cycle number: 67
+P2 Cycle number: 66 - -66 is a multiple of 3
+P1 Cycle number: 68
+P2 Cycle number: 67
+P2 Cycle number: 68
+P1 Cycle number: 69 - 69 is a multiple of 3
+P1 Cycle number: 70
+P2 Cycle number: 69 - -69 is a multiple of 3
+P1 Cycle number: 71
+P2 Cycle number: 70
+P1 Cycle number: 72 - 72 is a multiple of 3
+P2 Cycle number: 71
+P2 Cycle number: 72 - -72 is a multiple of 3
+P1 Cycle number: 73
+P2 Cycle number: 73
+P1 Cycle number: 74
+P2 Cycle number: 74
+P1 Cycle number: 75 - 75 is a multiple of 3
+P2 Cycle number: 75 - -75 is a multiple of 3
+P1 Cycle number: 76
+P1 Cycle number: 77
+P2 Cycle number: 76
+P1 Cycle number: 78 - 78 is a multiple of 3
+P2 Cycle number: 77
+P1 Cycle number: 79
+P2 Cycle number: 78 - -78 is a multiple of 3
+P2 Cycle number: 79
+P1 Cycle number: 80
+P2 Cycle number: 80
+P1 Cycle number: 81 - 81 is a multiple of 3
+P2 Cycle number: 81 - -81 is a multiple of 3
+P1 Cycle number: 82
+P2 Cycle number: 82
+P1 Cycle number: 83
+P1 Cycle number: 84 - 84 is a multiple of 3
+P2 Cycle number: 83
+P1 Cycle number: 85
+P2 Cycle number: 84 - -84 is a multiple of 3
+P1 Cycle number: 86
+P2 Cycle number: 85
+P1 Cycle number: 87 - 87 is a multiple of 3
+P2 Cycle number: 86
+P1 Cycle number: 88
+P2 Cycle number: 87 - -87 is a multiple of 3
+P1 Cycle number: 89
+P2 Cycle number: 88
+P1 Cycle number: 90 - 90 is a multiple of 3
+P2 Cycle number: 89
+P1 Cycle number: 91
+P2 Cycle number: 90 - -90 is a multiple of 3
+P1 Cycle number: 92
+P2 Cycle number: 91
+P1 Cycle number: 93 - 93 is a multiple of 3
+P2 Cycle number: 92
+P1 Cycle number: 94
+P2 Cycle number: 93 - -93 is a multiple of 3
+P1 Cycle number: 95
+P2 Cycle number: 94
+P2 Cycle number: 95
+P1 Cycle number: 96 - 96 is a multiple of 3
+P1 Cycle number: 97
+P2 Cycle number: 96 - -96 is a multiple of 3
+P2 Cycle number: 97
+P1 Cycle number: 98
+P1 Cycle number: 99 - 99 is a multiple of 3
+P2 Cycle number: 98
+P2 Cycle number: 99 - -99 is a multiple of 3
+P1 Cycle number: 100
+P1 Cycle number: 101
+P2 Cycle number: 100
+P1 Cycle number: 102 - 102 is a multiple of 3
+P2 Cycle number: 101
+P1 Cycle number: 103
+P2 Cycle number: 102 - -102 is a multiple of 3
+P1 Cycle number: 104
+P2 Cycle number: 103
+P1 Cycle number: 105 - 105 is a multiple of 3
+P2 Cycle number: 104
+P1 Cycle number: 106
+P2 Cycle number: 105 - -105 is a multiple of 3
+P1 Cycle number: 107
+P2 Cycle number: 106
+P1 Cycle number: 108 - 108 is a multiple of 3
+P2 Cycle number: 107
+P1 Cycle number: 109
+P2 Cycle number: 108 - -108 is a multiple of 3
+P1 Cycle number: 110
+P2 Cycle number: 109
+P1 Cycle number: 111 - 111 is a multiple of 3
+P2 Cycle number: 110
+P1 Cycle number: 112
+P2 Cycle number: 111 - -111 is a multiple of 3
+P1 Cycle number: 113
+P2 Cycle number: 112
+P1 Cycle number: 114 - 114 is a multiple of 3
+P2 Cycle number: 113
+P1 Cycle number: 115
+P2 Cycle number: 114 - -114 is a multiple of 3
+P1 Cycle number: 116
+P2 Cycle number: 115
+P1 Cycle number: 117 - 117 is a multiple of 3
+P2 Cycle number: 116
+P1 Cycle number: 118
+P2 Cycle number: 117 - -117 is a multiple of 3
+P1 Cycle number: 119
+P2 Cycle number: 118
+P1 Cycle number: 120 - 120 is a multiple of 3
+P2 Cycle number: 119
+P1 Cycle number: 121
+P2 Cycle number: 120 - -120 is a multiple of 3
+P1 Cycle number: 122
+P2 Cycle number: 121
+P1 Cycle number: 123 - 123 is a multiple of 3
+P2 Cycle number: 122
+P1 Cycle number: 124
+P2 Cycle number: 123 - -123 is a multiple of 3
+P2 Cycle number: 124
+P1 Cycle number: 125
+P2 Cycle number: 125
+P1 Cycle number: 126 - 126 is a multiple of 3
+P1 Cycle number: 127
+P2 Cycle number: 126 - -126 is a multiple of 3
+P1 Cycle number: 128
+P2 Cycle number: 127
+P1 Cycle number: 129 - 129 is a multiple of 3
+P2 Cycle number: 128
+P2 Cycle number: 129 - -129 is a multiple of 3
+P1 Cycle number: 130
+P1 Cycle number: 131
+P2 Cycle number: 130
+P2 Cycle number: 131
+P1 Cycle number: 132 - 132 is a multiple of 3
+P2 Cycle number: 132 - -132 is a multiple of 3
+P1 Cycle number: 133
+P1 Cycle number: 134
+P2 Cycle number: 133
+P1 Cycle number: 135 - 135 is a multiple of 3
+P2 Cycle number: 134
+P2 Cycle number: 135 - -135 is a multiple of 3
+P1 Cycle number: 136
+P2 Cycle number: 136
+P1 Cycle number: 137
+P2 Cycle number: 137
+P1 Cycle number: 138 - 138 is a multiple of 3
+P2 Cycle number: 138 - -138 is a multiple of 3
+P1 Cycle number: 139
+P2 Cycle number: 139
+P1 Cycle number: 140
+P2 Cycle number: 140
+P1 Cycle number: 141 - 141 is a multiple of 3
+P2 Cycle number: 141 - -141 is a multiple of 3
+P1 Cycle number: 142
+P2 Cycle number: 142
+P1 Cycle number: 143
+P2 Cycle number: 143
+P1 Cycle number: 144 - 144 is a multiple of 3
+P2 Cycle number: 144 - -144 is a multiple of 3
+P1 Cycle number: 145
+P2 Cycle number: 145
+P1 Cycle number: 146
+P2 Cycle number: 146
+P1 Cycle number: 147 - 147 is a multiple of 3
+P2 Cycle number: 147 - -147 is a multiple of 3
+P1 Cycle number: 148
+P2 Cycle number: 148
+P1 Cycle number: 149
+P2 Cycle number: 149
+P1 Cycle number: 150 - 150 is a multiple of 3
+P2 Cycle number: 150 - -150 is a multiple of 3
+P1 Cycle number: 151
+P2 Cycle number: 151
+P1 Cycle number: 152
+P2 Cycle number: 152
+P1 Cycle number: 153 - 153 is a multiple of 3
+P2 Cycle number: 153 - -153 is a multiple of 3
+P1 Cycle number: 154
+P2 Cycle number: 154
+P1 Cycle number: 155
+P2 Cycle number: 155
+P1 Cycle number: 156 - 156 is a multiple of 3
+P2 Cycle number: 156 - -156 is a multiple of 3
+P1 Cycle number: 157
+P2 Cycle number: 157
+P1 Cycle number: 158
+P2 Cycle number: 158
+P1 Cycle number: 159 - 159 is a multiple of 3
+P2 Cycle number: 159 - -159 is a multiple of 3
+P1 Cycle number: 160
+P2 Cycle number: 160
+P1 Cycle number: 161
+P2 Cycle number: 161
+P1 Cycle number: 162 - 162 is a multiple of 3
+P2 Cycle number: 162 - -162 is a multiple of 3
+P1 Cycle number: 163
+P2 Cycle number: 163
+P1 Cycle number: 164
+P2 Cycle number: 164
+P1 Cycle number: 165 - 165 is a multiple of 3
+P2 Cycle number: 165 - -165 is a multiple of 3
+P1 Cycle number: 166
+P2 Cycle number: 166
+P1 Cycle number: 167
+P2 Cycle number: 167
+P1 Cycle number: 168 - 168 is a multiple of 3
+P2 Cycle number: 168 - -168 is a multiple of 3
+P1 Cycle number: 169
+P2 Cycle number: 169
+P1 Cycle number: 170
+P2 Cycle number: 170
+P1 Cycle number: 171 - 171 is a multiple of 3
+P2 Cycle number: 171 - -171 is a multiple of 3
+P1 Cycle number: 172
+P2 Cycle number: 172
+P1 Cycle number: 173
+P2 Cycle number: 173
+P1 Cycle number: 174 - 174 is a multiple of 3
+P2 Cycle number: 174 - -174 is a multiple of 3
+P1 Cycle number: 175
+P2 Cycle number: 175
+P1 Cycle number: 176
+P2 Cycle number: 176
+P1 Cycle number: 177 - 177 is a multiple of 3
+P2 Cycle number: 177 - -177 is a multiple of 3
+P1 Cycle number: 178
+P2 Cycle number: 178
+P1 Cycle number: 179
+P2 Cycle number: 179
+P1 Cycle number: 180 - 180 is a multiple of 3
+P2 Cycle number: 180 - -180 is a multiple of 3
+P1 Cycle number: 181
+P2 Cycle number: 181
+P1 Cycle number: 182
+P2 Cycle number: 182
+P1 Cycle number: 183 - 183 is a multiple of 3
+P2 Cycle number: 183 - -183 is a multiple of 3
+P1 Cycle number: 184
+P2 Cycle number: 184
+P1 Cycle number: 185
+P2 Cycle number: 185
+P1 Cycle number: 186 - 186 is a multiple of 3
+P2 Cycle number: 186 - -186 is a multiple of 3
+P1 Cycle number: 187
+P2 Cycle number: 187
+P1 Cycle number: 188
+P2 Cycle number: 188
+P1 Cycle number: 189 - 189 is a multiple of 3
+P2 Cycle number: 189 - -189 is a multiple of 3
+P1 Cycle number: 190
+P2 Cycle number: 190
+P1 Cycle number: 191
+P2 Cycle number: 191
+P1 Cycle number: 192 - 192 is a multiple of 3
+P2 Cycle number: 192 - -192 is a multiple of 3
+P1 Cycle number: 193
+P2 Cycle number: 193
+P1 Cycle number: 194
+P2 Cycle number: 194
+P1 Cycle number: 195 - 195 is a multiple of 3
+P2 Cycle number: 195 - -195 is a multiple of 3
+P1 Cycle number: 196
+P2 Cycle number: 196
+P1 Cycle number: 197
+P2 Cycle number: 197
+P1 Cycle number: 198 - 198 is a multiple of 3
+P2 Cycle number: 198 - -198 is a multiple of 3
+P1 Cycle number: 199
+P2 Cycle number: 199
+P1 Cycle number: 200
+P2 Cycle number: 200
+P1 Cycle number: 201 - 201 is a multiple of 3
+P2 Cycle number: 201 - -201 is a multiple of 3
+P1 Cycle number: 202
+P2 Cycle number: 202
+P1 Cycle number: 203
+P2 Cycle number: 203
+P1 Cycle number: 204 - 204 is a multiple of 3
+P2 Cycle number: 204 - -204 is a multiple of 3
+P1 Cycle number: 205
+P2 Cycle number: 205
+P1 Cycle number: 206
+P2 Cycle number: 206
+P1 Cycle number: 207 - 207 is a multiple of 3
+P2 Cycle number: 207 - -207 is a multiple of 3
+P1 Cycle number: 208
+P2 Cycle number: 208
+P1 Cycle number: 209
+P2 Cycle number: 209
+P1 Cycle number: 210 - 210 is a multiple of 3
+P2 Cycle number: 210 - -210 is a multiple of 3
+P1 Cycle number: 211
+P2 Cycle number: 211
+P1 Cycle number: 212
+P2 Cycle number: 212
+P1 Cycle number: 213 - 213 is a multiple of 3
+P2 Cycle number: 213 - -213 is a multiple of 3
+P1 Cycle number: 214
+P2 Cycle number: 214
+P1 Cycle number: 215
+P2 Cycle number: 215
+P1 Cycle number: 216 - 216 is a multiple of 3
+P2 Cycle number: 216 - -216 is a multiple of 3
+P1 Cycle number: 217
+P2 Cycle number: 217
+P1 Cycle number: 218
+P2 Cycle number: 218
+P1 Cycle number: 219 - 219 is a multiple of 3
+P2 Cycle number: 219 - -219 is a multiple of 3
+P1 Cycle number: 220
+P2 Cycle number: 220
+P1 Cycle number: 221
+P2 Cycle number: 221
+P1 Cycle number: 222 - 222 is a multiple of 3
+P2 Cycle number: 222 - -222 is a multiple of 3
+P1 Cycle number: 223
+P2 Cycle number: 223
+P1 Cycle number: 224
+P2 Cycle number: 224
+P1 Cycle number: 225 - 225 is a multiple of 3
+P2 Cycle number: 225 - -225 is a multiple of 3
+P1 Cycle number: 226
+P2 Cycle number: 226
+P1 Cycle number: 227
+P2 Cycle number: 227
+P1 Cycle number: 228 - 228 is a multiple of 3
+P2 Cycle number: 228 - -228 is a multiple of 3
+P1 Cycle number: 229
+P2 Cycle number: 229
+P1 Cycle number: 230
+P2 Cycle number: 230
+P1 Cycle number: 231 - 231 is a multiple of 3
+P2 Cycle number: 231 - -231 is a multiple of 3
+P1 Cycle number: 232
+P2 Cycle number: 232
+P1 Cycle number: 233
+P2 Cycle number: 233
+P1 Cycle number: 234 - 234 is a multiple of 3
+P2 Cycle number: 234 - -234 is a multiple of 3
+P1 Cycle number: 235
+P2 Cycle number: 235
+P1 Cycle number: 236
+P2 Cycle number: 236
+P1 Cycle number: 237 - 237 is a multiple of 3
+P2 Cycle number: 237 - -237 is a multiple of 3
+P1 Cycle number: 238
+P2 Cycle number: 238
+P1 Cycle number: 239
+P2 Cycle number: 239
+P1 Cycle number: 240 - 240 is a multiple of 3
+P2 Cycle number: 240 - -240 is a multiple of 3
+P1 Cycle number: 241
+P2 Cycle number: 241
+P1 Cycle number: 242
+P2 Cycle number: 242
+P1 Cycle number: 243 - 243 is a multiple of 3
+P2 Cycle number: 243 - -243 is a multiple of 3
+P1 Cycle number: 244
+P2 Cycle number: 244
+P1 Cycle number: 245
+P2 Cycle number: 245
+P1 Cycle number: 246 - 246 is a multiple of 3
+P2 Cycle number: 246 - -246 is a multiple of 3
+P1 Cycle number: 247
+P2 Cycle number: 247
+P1 Cycle number: 248
+P2 Cycle number: 248
+P1 Cycle number: 249 - 249 is a multiple of 3
+P2 Cycle number: 249 - -249 is a multiple of 3
+P1 Cycle number: 250
+P2 Cycle number: 250
+P1 Cycle number: 251
+P2 Cycle number: 251
+P1 Cycle number: 252 - 252 is a multiple of 3
+P2 Cycle number: 252 - -252 is a multiple of 3
+P1 Cycle number: 253
+P2 Cycle number: 253
+P1 Cycle number: 254
+P2 Cycle number: 254
+P1 Cycle number: 255 - 255 is a multiple of 3
+P2 Cycle number: 255 - -255 is a multiple of 3
+P1 Cycle number: 256
+P2 Cycle number: 256
+P1 Cycle number: 257
+P2 Cycle number: 257
+P1 Cycle number: 258 - 258 is a multiple of 3
+P2 Cycle number: 258 - -258 is a multiple of 3
+P1 Cycle number: 259
+P2 Cycle number: 259
+P1 Cycle number: 260
+P2 Cycle number: 260
+P1 Cycle number: 261 - 261 is a multiple of 3
+P2 Cycle number: 261 - -261 is a multiple of 3
+P1 Cycle number: 262
+P2 Cycle number: 262
+P1 Cycle number: 263
+P2 Cycle number: 263
+P1 Cycle number: 264 - 264 is a multiple of 3
+P2 Cycle number: 264 - -264 is a multiple of 3
+P1 Cycle number: 265
+P2 Cycle number: 265
+P1 Cycle number: 266
+P2 Cycle number: 266
+P1 Cycle number: 267 - 267 is a multiple of 3
+P2 Cycle number: 267 - -267 is a multiple of 3
+P1 Cycle number: 268
+P2 Cycle number: 268
+P1 Cycle number: 269
+P2 Cycle number: 269
+P1 Cycle number: 270 - 270 is a multiple of 3
+P2 Cycle number: 270 - -270 is a multiple of 3
+P1 Cycle number: 271
+P2 Cycle number: 271
+P1 Cycle number: 272
+P2 Cycle number: 272
+P1 Cycle number: 273 - 273 is a multiple of 3
+P2 Cycle number: 273 - -273 is a multiple of 3
+P1 Cycle number: 274
+P2 Cycle number: 274
+P1 Cycle number: 275
+P2 Cycle number: 275
+P1 Cycle number: 276 - 276 is a multiple of 3
+P2 Cycle number: 276 - -276 is a multiple of 3
+P1 Cycle number: 277
+P2 Cycle number: 277
+P1 Cycle number: 278
+P2 Cycle number: 278
+P1 Cycle number: 279 - 279 is a multiple of 3
+P2 Cycle number: 279 - -279 is a multiple of 3
+P1 Cycle number: 280
+P2 Cycle number: 280
+P1 Cycle number: 281
+P2 Cycle number: 281
+P1 Cycle number: 282 - 282 is a multiple of 3
+P2 Cycle number: 282 - -282 is a multiple of 3
+P1 Cycle number: 283
+P2 Cycle number: 283
+P1 Cycle number: 284
+P2 Cycle number: 284
+P1 Cycle number: 285 - 285 is a multiple of 3
+P2 Cycle number: 285 - -285 is a multiple of 3
+P1 Cycle number: 286
+P2 Cycle number: 286
+P1 Cycle number: 287
+P2 Cycle number: 287
+P1 Cycle number: 288 - 288 is a multiple of 3
+P2 Cycle number: 288 - -288 is a multiple of 3
+P1 Cycle number: 289
+P2 Cycle number: 289
+P1 Cycle number: 290
+P2 Cycle number: 290
+P1 Cycle number: 291 - 291 is a multiple of 3
+P2 Cycle number: 291 - -291 is a multiple of 3
+P1 Cycle number: 292
+P2 Cycle number: 292
+P1 Cycle number: 293
+P2 Cycle number: 293
+P1 Cycle number: 294 - 294 is a multiple of 3
+P2 Cycle number: 294 - -294 is a multiple of 3
+P1 Cycle number: 295
+P2 Cycle number: 295
+P1 Cycle number: 296
+P2 Cycle number: 296
+P1 Cycle number: 297 - 297 is a multiple of 3
+P2 Cycle number: 297 - -297 is a multiple of 3
+P1 Cycle number: 298
+P2 Cycle number: 298
+P1 Cycle number: 299
+P2 Cycle number: 299
+P1 Cycle number: 300 - 300 is a multiple of 3
+P2 Cycle number: 300 - -300 is a multiple of 3
+P1 Cycle number: 301
+P2 Cycle number: 301
+P1 Cycle number: 302
+P2 Cycle number: 302
+P1 Cycle number: 303 - 303 is a multiple of 3
+P2 Cycle number: 303 - -303 is a multiple of 3
+P1 Cycle number: 304
+P2 Cycle number: 304
+P1 Cycle number: 305
+P2 Cycle number: 305
+P1 Cycle number: 306 - 306 is a multiple of 3
+P2 Cycle number: 306 - -306 is a multiple of 3
+P1 Cycle number: 307
+P2 Cycle number: 307
+P1 Cycle number: 308
+P2 Cycle number: 308
+P1 Cycle number: 309 - 309 is a multiple of 3
+P2 Cycle number: 309 - -309 is a multiple of 3
+P1 Cycle number: 310
+P2 Cycle number: 310
+P1 Cycle number: 311
+P2 Cycle number: 311
+P1 Cycle number: 312 - 312 is a multiple of 3
+P2 Cycle number: 312 - -312 is a multiple of 3
+P1 Cycle number: 313
+P2 Cycle number: 313
+P1 Cycle number: 314
+P2 Cycle number: 314
+P1 Cycle number: 315 - 315 is a multiple of 3
+P2 Cycle number: 315 - -315 is a multiple of 3
+P1 Cycle number: 316
+P2 Cycle number: 316
+P1 Cycle number: 317
+P2 Cycle number: 317
+P1 Cycle number: 318 - 318 is a multiple of 3
+P2 Cycle number: 318 - -318 is a multiple of 3
+P1 Cycle number: 319
+P2 Cycle number: 319
+P1 Cycle number: 320
+P2 Cycle number: 320
+P1 Cycle number: 321 - 321 is a multiple of 3
+P2 Cycle number: 321 - -321 is a multiple of 3
+P1 Cycle number: 322
+P2 Cycle number: 322
+P1 Cycle number: 323
+P2 Cycle number: 323
+P1 Cycle number: 324 - 324 is a multiple of 3
+P2 Cycle number: 324 - -324 is a multiple of 3
+P1 Cycle number: 325
+P2 Cycle number: 325
+P1 Cycle number: 326
+P2 Cycle number: 326
+P1 Cycle number: 327 - 327 is a multiple of 3
+P2 Cycle number: 327 - -327 is a multiple of 3
+P1 Cycle number: 328
+P2 Cycle number: 328
+P1 Cycle number: 329
+P2 Cycle number: 329
+P1 Cycle number: 330 - 330 is a multiple of 3
+P2 Cycle number: 330 - -330 is a multiple of 3
+P1 Cycle number: 331
+P2 Cycle number: 331
+P1 Cycle number: 332
+P2 Cycle number: 332
+P1 Cycle number: 333 - 333 is a multiple of 3
+P2 Cycle number: 333 - -333 is a multiple of 3
+P1 Cycle number: 334
+P2 Cycle number: 334
+P1 Cycle number: 335
+P2 Cycle number: 335
+P1 Cycle number: 336 - 336 is a multiple of 3
+P2 Cycle number: 336 - -336 is a multiple of 3
+P1 Cycle number: 337
+P2 Cycle number: 337
+P1 Cycle number: 338
+P2 Cycle number: 338
+P1 Cycle number: 339 - 339 is a multiple of 3
+P2 Cycle number: 339 - -339 is a multiple of 3
+P1 Cycle number: 340
+P2 Cycle number: 340
+P1 Cycle number: 341
+P2 Cycle number: 341
+P1 Cycle number: 342 - 342 is a multiple of 3
+P2 Cycle number: 342 - -342 is a multiple of 3
+P1 Cycle number: 343
+P2 Cycle number: 343
+P1 Cycle number: 344
+P2 Cycle number: 344
+P1 Cycle number: 345 - 345 is a multiple of 3
+P2 Cycle number: 345 - -345 is a multiple of 3
+P1 Cycle number: 346
+P2 Cycle number: 346
+P1 Cycle number: 347
+P2 Cycle number: 347
+P1 Cycle number: 348 - 348 is a multiple of 3
+P2 Cycle number: 348 - -348 is a multiple of 3
+P1 Cycle number: 349
+P2 Cycle number: 349
+P1 Cycle number: 350
+P2 Cycle number: 350
+P1 Cycle number: 351 - 351 is a multiple of 3
+P2 Cycle number: 351 - -351 is a multiple of 3
+P1 Cycle number: 352
+P2 Cycle number: 352
+P1 Cycle number: 353
+P2 Cycle number: 353
+P1 Cycle number: 354 - 354 is a multiple of 3
+P2 Cycle number: 354 - -354 is a multiple of 3
+P1 Cycle number: 355
+P2 Cycle number: 355
+P1 Cycle number: 356
+P2 Cycle number: 356
+P1 Cycle number: 357 - 357 is a multiple of 3
+P2 Cycle number: 357 - -357 is a multiple of 3
+P1 Cycle number: 358
+P2 Cycle number: 358
+P1 Cycle number: 359
+P2 Cycle number: 359
+P1 Cycle number: 360 - 360 is a multiple of 3
+P2 Cycle number: 360 - -360 is a multiple of 3
+P1 Cycle number: 361
+P2 Cycle number: 361
+P1 Cycle number: 362
+P2 Cycle number: 362
+P1 Cycle number: 363 - 363 is a multiple of 3
+P2 Cycle number: 363 - -363 is a multiple of 3
+P1 Cycle number: 364
+P2 Cycle number: 364
+P1 Cycle number: 365
+P2 Cycle number: 365
+P1 Cycle number: 366 - 366 is a multiple of 3
+P2 Cycle number: 366 - -366 is a multiple of 3
+P1 Cycle number: 367
+P2 Cycle number: 367
+P1 Cycle number: 368
+P2 Cycle number: 368
+P1 Cycle number: 369 - 369 is a multiple of 3
+P2 Cycle number: 369 - -369 is a multiple of 3
+P1 Cycle number: 370
+P2 Cycle number: 370
+P1 Cycle number: 371
+P2 Cycle number: 371
+P1 Cycle number: 372 - 372 is a multiple of 3
+P2 Cycle number: 372 - -372 is a multiple of 3
+P1 Cycle number: 373
+P2 Cycle number: 373
+P1 Cycle number: 374
+P2 Cycle number: 374
+P1 Cycle number: 375 - 375 is a multiple of 3
+P2 Cycle number: 375 - -375 is a multiple of 3
+P1 Cycle number: 376
+P2 Cycle number: 376
+P1 Cycle number: 377
+P2 Cycle number: 377
+P1 Cycle number: 378 - 378 is a multiple of 3
+P2 Cycle number: 378 - -378 is a multiple of 3
+P1 Cycle number: 379
+P2 Cycle number: 379
+P1 Cycle number: 380
+P2 Cycle number: 380
+P1 Cycle number: 381 - 381 is a multiple of 3
+P2 Cycle number: 381 - -381 is a multiple of 3
+P1 Cycle number: 382
+P2 Cycle number: 382
+P1 Cycle number: 383
+P2 Cycle number: 383
+P1 Cycle number: 384 - 384 is a multiple of 3
+P2 Cycle number: 384 - -384 is a multiple of 3
+P1 Cycle number: 385
+P2 Cycle number: 385
+P1 Cycle number: 386
+P2 Cycle number: 386
+P1 Cycle number: 387 - 387 is a multiple of 3
+P2 Cycle number: 387 - -387 is a multiple of 3
+P1 Cycle number: 388
+P2 Cycle number: 388
+P1 Cycle number: 389
+P2 Cycle number: 389
+P1 Cycle number: 390 - 390 is a multiple of 3
+P2 Cycle number: 390 - -390 is a multiple of 3
+P1 Cycle number: 391
+P2 Cycle number: 391
+P1 Cycle number: 392
+P2 Cycle number: 392
+P1 Cycle number: 393 - 393 is a multiple of 3
+P2 Cycle number: 393 - -393 is a multiple of 3
+P1 Cycle number: 394
+P2 Cycle number: 394
+P1 Cycle number: 395
+P2 Cycle number: 395
+P1 Cycle number: 396 - 396 is a multiple of 3
+P2 Cycle number: 396 - -396 is a multiple of 3
+P1 Cycle number: 397
+P2 Cycle number: 397
+P1 Cycle number: 398
+P2 Cycle number: 398
+P1 Cycle number: 399 - 399 is a multiple of 3
+P2 Cycle number: 399 - -399 is a multiple of 3
+P1 Cycle number: 400
+P2 Cycle number: 400
+P1 Cycle number: 401
+P2 Cycle number: 401
+P1 Cycle number: 402 - 402 is a multiple of 3
+P2 Cycle number: 402 - -402 is a multiple of 3
+P1 Cycle number: 403
+P2 Cycle number: 403
+P1 Cycle number: 404
+P2 Cycle number: 404
+P1 Cycle number: 405 - 405 is a multiple of 3
+P2 Cycle number: 405 - -405 is a multiple of 3
+P1 Cycle number: 406
+P2 Cycle number: 406
+P1 Cycle number: 407
+P2 Cycle number: 407
+P1 Cycle number: 408 - 408 is a multiple of 3
+P2 Cycle number: 408 - -408 is a multiple of 3
+P1 Cycle number: 409
+P2 Cycle number: 409
+P1 Cycle number: 410
+P2 Cycle number: 410
+P1 Cycle number: 411 - 411 is a multiple of 3
+P2 Cycle number: 411 - -411 is a multiple of 3
+P1 Cycle number: 412
+P2 Cycle number: 412
+P1 Cycle number: 413
+P2 Cycle number: 413
+P1 Cycle number: 414 - 414 is a multiple of 3
+P2 Cycle number: 414 - -414 is a multiple of 3
+P1 Cycle number: 415
+P2 Cycle number: 415
+P1 Cycle number: 416
+P2 Cycle number: 416
+P1 Cycle number: 417 - 417 is a multiple of 3
+P2 Cycle number: 417 - -417 is a multiple of 3
+P1 Cycle number: 418
+P2 Cycle number: 418
+P1 Cycle number: 419
+P2 Cycle number: 419
+P1 Cycle number: 420 - 420 is a multiple of 3
+P2 Cycle number: 420 - -420 is a multiple of 3
+P1 Cycle number: 421
+P2 Cycle number: 421
+P1 Cycle number: 422
+P2 Cycle number: 422
+P1 Cycle number: 423 - 423 is a multiple of 3
+P2 Cycle number: 423 - -423 is a multiple of 3
+P1 Cycle number: 424
+P2 Cycle number: 424
+P1 Cycle number: 425
+P2 Cycle number: 425
+P1 Cycle number: 426 - 426 is a multiple of 3
+P2 Cycle number: 426 - -426 is a multiple of 3
+P1 Cycle number: 427
+P2 Cycle number: 427
+P1 Cycle number: 428
+P2 Cycle number: 428
+P1 Cycle number: 429 - 429 is a multiple of 3
+P2 Cycle number: 429 - -429 is a multiple of 3
+P1 Cycle number: 430
+P2 Cycle number: 430
+P1 Cycle number: 431
+P2 Cycle number: 431
+P1 Cycle number: 432 - 432 is a multiple of 3
+P2 Cycle number: 432 - -432 is a multiple of 3
+P1 Cycle number: 433
+P2 Cycle number: 433
+P1 Cycle number: 434
+P2 Cycle number: 434
+P1 Cycle number: 435 - 435 is a multiple of 3
+P2 Cycle number: 435 - -435 is a multiple of 3
+P1 Cycle number: 436
+P2 Cycle number: 436
+P1 Cycle number: 437
+P2 Cycle number: 437
+P1 Cycle number: 438 - 438 is a multiple of 3
+P2 Cycle number: 438 - -438 is a multiple of 3
+P1 Cycle number: 439
+P2 Cycle number: 439
+P1 Cycle number: 440
+P2 Cycle number: 440
+P1 Cycle number: 441 - 441 is a multiple of 3
+P2 Cycle number: 441 - -441 is a multiple of 3
+P1 Cycle number: 442
+P2 Cycle number: 442
+P1 Cycle number: 443
+P2 Cycle number: 443
+P1 Cycle number: 444 - 444 is a multiple of 3
+P2 Cycle number: 444 - -444 is a multiple of 3
+P1 Cycle number: 445
+P2 Cycle number: 445
+P1 Cycle number: 446
+P2 Cycle number: 446
+P1 Cycle number: 447 - 447 is a multiple of 3
+P2 Cycle number: 447 - -447 is a multiple of 3
+P1 Cycle number: 448
+P2 Cycle number: 448
+P1 Cycle number: 449
+P2 Cycle number: 449
+P1 Cycle number: 450 - 450 is a multiple of 3
+P2 Cycle number: 450 - -450 is a multiple of 3
+P1 Cycle number: 451
+P2 Cycle number: 451
+P1 Cycle number: 452
+P2 Cycle number: 452
+P1 Cycle number: 453 - 453 is a multiple of 3
+P2 Cycle number: 453 - -453 is a multiple of 3
+P1 Cycle number: 454
+P2 Cycle number: 454
+P1 Cycle number: 455
+P2 Cycle number: 455
+P1 Cycle number: 456 - 456 is a multiple of 3
+P2 Cycle number: 456 - -456 is a multiple of 3
+P1 Cycle number: 457
+P2 Cycle number: 457
+P1 Cycle number: 458
+P2 Cycle number: 458
+P1 Cycle number: 459 - 459 is a multiple of 3
+P2 Cycle number: 459 - -459 is a multiple of 3
+P1 Cycle number: 460
+P2 Cycle number: 460
+P1 Cycle number: 461
+P2 Cycle number: 461
+P1 Cycle number: 462 - 462 is a multiple of 3
+P2 Cycle number: 462 - -462 is a multiple of 3
+P1 Cycle number: 463
+P2 Cycle number: 463
+P1 Cycle number: 464
+P2 Cycle number: 464
+P1 Cycle number: 465 - 465 is a multiple of 3
+P2 Cycle number: 465 - -465 is a multiple of 3
+P1 Cycle number: 466
+P2 Cycle number: 466
+P1 Cycle number: 467
+P2 Cycle number: 467
+P1 Cycle number: 468 - 468 is a multiple of 3
+P2 Cycle number: 468 - -468 is a multiple of 3
+P1 Cycle number: 469
+P2 Cycle number: 469
+P1 Cycle number: 470
+P2 Cycle number: 470
+P1 Cycle number: 471 - 471 is a multiple of 3
+P2 Cycle number: 471 - -471 is a multiple of 3
+P1 Cycle number: 472
+P2 Cycle number: 472
+P1 Cycle number: 473
+P2 Cycle number: 473
+P1 Cycle number: 474 - 474 is a multiple of 3
+P2 Cycle number: 474 - -474 is a multiple of 3
+P1 Cycle number: 475
+P2 Cycle number: 475
+P1 Cycle number: 476
+P2 Cycle number: 476
+P1 Cycle number: 477 - 477 is a multiple of 3
+P2 Cycle number: 477 - -477 is a multiple of 3
+P1 Cycle number: 478
+P2 Cycle number: 478
+P1 Cycle number: 479
+P2 Cycle number: 479
+P1 Cycle number: 480 - 480 is a multiple of 3
+P2 Cycle number: 480 - -480 is a multiple of 3
+P1 Cycle number: 481
+P2 Cycle number: 481
+P1 Cycle number: 482
+P2 Cycle number: 482
+P1 Cycle number: 483 - 483 is a multiple of 3
+P2 Cycle number: 483 - -483 is a multiple of 3
+P1 Cycle number: 484
+P2 Cycle number: 484
+P1 Cycle number: 485
+P2 Cycle number: 485
+P1 Cycle number: 486 - 486 is a multiple of 3
+P2 Cycle number: 486 - -486 is a multiple of 3
+P1 Cycle number: 487
+P2 Cycle number: 487
+P1 Cycle number: 488
+P2 Cycle number: 488
+P1 Cycle number: 489 - 489 is a multiple of 3
+P2 Cycle number: 489 - -489 is a multiple of 3
+P1 Cycle number: 490
+P2 Cycle number: 490
+P1 Cycle number: 491
+P2 Cycle number: 491
+P1 Cycle number: 492 - 492 is a multiple of 3
+P2 Cycle number: 492 - -492 is a multiple of 3
+P1 Cycle number: 493
+P2 Cycle number: 493
+P1 Cycle number: 494
+P2 Cycle number: 494
+P1 Cycle number: 495 - 495 is a multiple of 3
+P2 Cycle number: 495 - -495 is a multiple of 3
+P1 Cycle number: 496
+P2 Cycle number: 496
+P1 Cycle number: 497
+P2 Cycle number: 497
+P1 Cycle number: 498 - 498 is a multiple of 3
+P2 Cycle number: 498 - -498 is a multiple of 3
+P1 Cycle number: 499
+P2 Cycle number: 499
+P1 Cycle number: 500
+
+child reached -500 exiting
+child exited, parent now exiting.
+Question 4 Outputs:
+P1 Cycle number: 1300
+P2 Cycle number: 799 - 501 is a multiple of 3
+P1 Cycle number: 1301
+P2 Cycle number: 800 - 501 is a multiple of 3
+P1 Cycle number: 1302
+P1 shared counter 501 > 500, exiting
+P2 Cycle number: 801 - 501 is a multiple of 3
+P2 Cycle number: 802
+P2 Cycle number: 803
+P2 Cycle number: 804 - 498 is a multiple of 3
+P2 Cycle number: 805
+P2 Cycle number: 806
+P2 Cycle number: 807 - 495 is a multiple of 3
+P2 Cycle number: 808
+P2 Cycle number: 809
+P2 Cycle number: 810 - 492 is a multiple of 3
+P2 Cycle number: 811
+P2 Cycle number: 812
+P2 Cycle number: 813 - 489 is a multiple of 3
+P2 Cycle number: 814
+P2 Cycle number: 815
+P2 Cycle number: 816 - 486 is a multiple of 3
+P2 Cycle number: 817
+P2 Cycle number: 818
+P2 Cycle number: 819 - 483 is a multiple of 3
+P2 Cycle number: 820
+P2 Cycle number: 821
+P2 Cycle number: 822 - 480 is a multiple of 3
+P2 Cycle number: 823
+P2 Cycle number: 824
+P2 Cycle number: 825 - 477 is a multiple of 3
+P2 Cycle number: 826
+P2 Cycle number: 827
+P2 Cycle number: 828 - 474 is a multiple of 3
+P2 Cycle number: 829
+P2 Cycle number: 830
+P2 Cycle number: 831 - 471 is a multiple of 3
+P2 Cycle number: 832
+P2 Cycle number: 833
+P2 Cycle number: 834 - 468 is a multiple of 3
+P2 Cycle number: 835
+P2 Cycle number: 836
+P2 Cycle number: 837 - 465 is a multiple of 3
+P2 Cycle number: 838
+P2 Cycle number: 839
+P2 Cycle number: 840 - 462 is a multiple of 3
+P2 Cycle number: 841
+P2 Cycle number: 842
+P2 Cycle number: 843 - 459 is a multiple of 3
+P2 Cycle number: 844
+P2 Cycle number: 845
+P2 Cycle number: 846 - 456 is a multiple of 3
+P2 Cycle number: 847
+P2 Cycle number: 848
+P2 Cycle number: 849 - 453 is a multiple of 3
+P2 Cycle number: 850
+P2 Cycle number: 851
+P2 Cycle number: 852 - 450 is a multiple of 3
+P2 Cycle number: 853
+P2 Cycle number: 854
+P2 Cycle number: 855 - 447 is a multiple of 3
+P2 Cycle number: 856
+P2 Cycle number: 857
+P2 Cycle number: 858 - 444 is a multiple of 3
+P2 Cycle number: 859
+P2 Cycle number: 860
+P2 Cycle number: 861 - 441 is a multiple of 3
+P2 Cycle number: 862
+P2 Cycle number: 863
+P2 Cycle number: 864 - 438 is a multiple of 3
+P2 Cycle number: 865
+P2 Cycle number: 866
+P2 Cycle number: 867 - 435 is a multiple of 3
+P2 Cycle number: 868
+P2 Cycle number: 869
+P2 Cycle number: 870 - 432 is a multiple of 3
+P2 Cycle number: 871
+P2 Cycle number: 872
+P2 Cycle number: 873 - 429 is a multiple of 3
+P2 Cycle number: 874
+P2 Cycle number: 875
+P2 Cycle number: 876 - 426 is a multiple of 3
+P2 Cycle number: 877
+P2 Cycle number: 878
+P2 Cycle number: 879 - 423 is a multiple of 3
+P2 Cycle number: 880
+P2 Cycle number: 881
+P2 Cycle number: 882 - 420 is a multiple of 3
+P2 Cycle number: 883
+P2 Cycle number: 884
+P2 Cycle number: 885 - 417 is a multiple of 3
+P2 Cycle number: 886
+P2 Cycle number: 887
+P2 Cycle number: 888 - 414 is a multiple of 3
+P2 Cycle number: 889
+P2 Cycle number: 890
+P2 Cycle number: 891 - 411 is a multiple of 3
+P2 Cycle number: 892
+P2 Cycle number: 893
+P2 Cycle number: 894 - 408 is a multiple of 3
+P2 Cycle number: 895
+P2 Cycle number: 896
+P2 Cycle number: 897 - 405 is a multiple of 3
+P2 Cycle number: 898
+P2 Cycle number: 899
+P2 Cycle number: 900 - 402 is a multiple of 3
+P2 Cycle number: 901
+P2 Cycle number: 902
+P2 Cycle number: 903 - 399 is a multiple of 3
+P2 Cycle number: 904
+P2 Cycle number: 905
+P2 Cycle number: 906 - 396 is a multiple of 3
+P2 Cycle number: 907
+P2 Cycle number: 908
+P2 Cycle number: 909 - 393 is a multiple of 3
+P2 Cycle number: 910
+P2 Cycle number: 911
+P2 Cycle number: 912 - 390 is a multiple of 3
+P2 Cycle number: 913
+P2 Cycle number: 914
+P2 Cycle number: 915 - 387 is a multiple of 3
+P2 Cycle number: 916
+P2 Cycle number: 917
+P2 Cycle number: 918 - 384 is a multiple of 3
+P2 Cycle number: 919
+P2 Cycle number: 920
+P2 Cycle number: 921 - 381 is a multiple of 3
+P2 Cycle number: 922
+P2 Cycle number: 923
+P2 Cycle number: 924 - 378 is a multiple of 3
+P2 Cycle number: 925
+P2 Cycle number: 926
+P2 Cycle number: 927 - 375 is a multiple of 3
+P2 Cycle number: 928
+P2 Cycle number: 929
+P2 Cycle number: 930 - 372 is a multiple of 3
+P2 Cycle number: 931
+P2 Cycle number: 932
+P2 Cycle number: 933 - 369 is a multiple of 3
+P2 Cycle number: 934
+P2 Cycle number: 935
+P2 Cycle number: 936 - 366 is a multiple of 3
+P2 Cycle number: 937
+P2 Cycle number: 938
+P2 Cycle number: 939 - 363 is a multiple of 3
+P2 Cycle number: 940
+P2 Cycle number: 941
+P2 Cycle number: 942 - 360 is a multiple of 3
+P2 Cycle number: 943
+P2 Cycle number: 944
+P2 Cycle number: 945 - 357 is a multiple of 3
+P2 Cycle number: 946
+P2 Cycle number: 947
+P2 Cycle number: 948 - 354 is a multiple of 3
+P2 Cycle number: 949
+P2 Cycle number: 950
+P2 Cycle number: 951 - 351 is a multiple of 3
+P2 Cycle number: 952
+P2 Cycle number: 953
+P2 Cycle number: 954 - 348 is a multiple of 3
+P2 Cycle number: 955
+P2 Cycle number: 956
+P2 Cycle number: 957 - 345 is a multiple of 3
+P2 Cycle number: 958
+P2 Cycle number: 959
+P2 Cycle number: 960 - 342 is a multiple of 3
+P2 Cycle number: 961
+P2 Cycle number: 962
+P2 Cycle number: 963 - 339 is a multiple of 3
+P2 Cycle number: 964
+P2 Cycle number: 965
+P2 Cycle number: 966 - 336 is a multiple of 3
+P2 Cycle number: 967
+P2 Cycle number: 968
+P2 Cycle number: 969 - 333 is a multiple of 3
+P2 Cycle number: 970
+P2 Cycle number: 971
+P2 Cycle number: 972 - 330 is a multiple of 3
+P2 Cycle number: 973
+P2 Cycle number: 974
+P2 Cycle number: 975 - 327 is a multiple of 3
+P2 Cycle number: 976
+P2 Cycle number: 977
+P2 Cycle number: 978 - 324 is a multiple of 3
+P2 Cycle number: 979
+P2 Cycle number: 980
+P2 Cycle number: 981 - 321 is a multiple of 3
+P2 Cycle number: 982
+P2 Cycle number: 983
+P2 Cycle number: 984 - 318 is a multiple of 3
+P2 Cycle number: 985
+P2 Cycle number: 986
+P2 Cycle number: 987 - 315 is a multiple of 3
+P2 Cycle number: 988
+P2 Cycle number: 989
+P2 Cycle number: 990 - 312 is a multiple of 3
+P2 Cycle number: 991
+P2 Cycle number: 992
+P2 Cycle number: 993 - 309 is a multiple of 3
+P2 Cycle number: 994
+P2 Cycle number: 995
+P2 Cycle number: 996 - 306 is a multiple of 3
+P2 Cycle number: 997
+P2 Cycle number: 998
+P2 Cycle number: 999 - 303 is a multiple of 3
+P2 Cycle number: 1000
+P2 Cycle number: 1001
+P2 Cycle number: 1002 - 300 is a multiple of 3
+P2 Cycle number: 1003
+P2 Cycle number: 1004
+P2 Cycle number: 1005 - 297 is a multiple of 3
+P2 Cycle number: 1006
+P2 Cycle number: 1007
+P2 Cycle number: 1008 - 294 is a multiple of 3
+P2 Cycle number: 1009
+P2 Cycle number: 1010
+P2 Cycle number: 1011 - 291 is a multiple of 3
+P2 Cycle number: 1012
+P2 Cycle number: 1013
+P2 Cycle number: 1014 - 288 is a multiple of 3
+P2 Cycle number: 1015
+P2 Cycle number: 1016
+P2 Cycle number: 1017 - 285 is a multiple of 3
+P2 Cycle number: 1018
+P2 Cycle number: 1019
+P2 Cycle number: 1020 - 282 is a multiple of 3
+P2 Cycle number: 1021
+P2 Cycle number: 1022
+P2 Cycle number: 1023 - 279 is a multiple of 3
+P2 Cycle number: 1024
+P2 Cycle number: 1025
+P2 Cycle number: 1026 - 276 is a multiple of 3
+P2 Cycle number: 1027
+P2 Cycle number: 1028
+P2 Cycle number: 1029 - 273 is a multiple of 3
+P2 Cycle number: 1030
+P2 Cycle number: 1031
+P2 Cycle number: 1032 - 270 is a multiple of 3
+P2 Cycle number: 1033
+P2 Cycle number: 1034
+P2 Cycle number: 1035 - 267 is a multiple of 3
+P2 Cycle number: 1036
+P2 Cycle number: 1037
+P2 Cycle number: 1038 - 264 is a multiple of 3
+P2 Cycle number: 1039
+P2 Cycle number: 1040
+P2 Cycle number: 1041 - 261 is a multiple of 3
+P2 Cycle number: 1042
+P2 Cycle number: 1043
+P2 Cycle number: 1044 - 258 is a multiple of 3
+P2 Cycle number: 1045
+P2 Cycle number: 1046
+P2 Cycle number: 1047 - 255 is a multiple of 3
+P2 Cycle number: 1048
+P2 Cycle number: 1049
+P2 Cycle number: 1050 - 252 is a multiple of 3
+P2 Cycle number: 1051
+P2 Cycle number: 1052
+P2 Cycle number: 1053 - 249 is a multiple of 3
+P2 Cycle number: 1054
+P2 Cycle number: 1055
+P2 Cycle number: 1056 - 246 is a multiple of 3
+P2 Cycle number: 1057
+P2 Cycle number: 1058
+P2 Cycle number: 1059 - 243 is a multiple of 3
+P2 Cycle number: 1060
+P2 Cycle number: 1061
+P2 Cycle number: 1062 - 240 is a multiple of 3
+P2 Cycle number: 1063
+P2 Cycle number: 1064
+P2 Cycle number: 1065 - 237 is a multiple of 3
+P2 Cycle number: 1066
+P2 Cycle number: 1067
+P2 Cycle number: 1068 - 234 is a multiple of 3
+P2 Cycle number: 1069
+P2 Cycle number: 1070
+P2 Cycle number: 1071 - 231 is a multiple of 3
+P2 Cycle number: 1072
+P2 Cycle number: 1073
+P2 Cycle number: 1074 - 228 is a multiple of 3
+P2 Cycle number: 1075
+P2 Cycle number: 1076
+P2 Cycle number: 1077 - 225 is a multiple of 3
+P2 Cycle number: 1078
+P2 Cycle number: 1079
+P2 Cycle number: 1080 - 222 is a multiple of 3
+P2 Cycle number: 1081
+P2 Cycle number: 1082
+P2 Cycle number: 1083 - 219 is a multiple of 3
+P2 Cycle number: 1084
+P2 Cycle number: 1085
+P2 Cycle number: 1086 - 216 is a multiple of 3
+P2 Cycle number: 1087
+P2 Cycle number: 1088
+P2 Cycle number: 1089 - 213 is a multiple of 3
+P2 Cycle number: 1090
+P2 Cycle number: 1091
+P2 Cycle number: 1092 - 210 is a multiple of 3
+P2 Cycle number: 1093
+P2 Cycle number: 1094
+P2 Cycle number: 1095 - 207 is a multiple of 3
+P2 Cycle number: 1096
+P2 Cycle number: 1097
+P2 Cycle number: 1098 - 204 is a multiple of 3
+P2 Cycle number: 1099
+P2 Cycle number: 1100
+P2 Cycle number: 1101 - 201 is a multiple of 3
+P2 Cycle number: 1102
+P2 Cycle number: 1103
+P2 Cycle number: 1104 - 198 is a multiple of 3
+P2 Cycle number: 1105
+P2 Cycle number: 1106
+P2 Cycle number: 1107 - 195 is a multiple of 3
+P2 Cycle number: 1108
+P2 Cycle number: 1109
+P2 Cycle number: 1110 - 192 is a multiple of 3
+P2 Cycle number: 1111
+P2 Cycle number: 1112
+P2 Cycle number: 1113 - 189 is a multiple of 3
+P2 Cycle number: 1114
+P2 Cycle number: 1115
+P2 Cycle number: 1116 - 186 is a multiple of 3
+P2 Cycle number: 1117
+P2 Cycle number: 1118
+P2 Cycle number: 1119 - 183 is a multiple of 3
+P2 Cycle number: 1120
+P2 Cycle number: 1121
+P2 Cycle number: 1122 - 180 is a multiple of 3
+P2 Cycle number: 1123
+P2 Cycle number: 1124
+P2 Cycle number: 1125 - 177 is a multiple of 3
+P2 Cycle number: 1126
+P2 Cycle number: 1127
+P2 Cycle number: 1128 - 174 is a multiple of 3
+P2 Cycle number: 1129
+P2 Cycle number: 1130
+P2 Cycle number: 1131 - 171 is a multiple of 3
+P2 Cycle number: 1132
+P2 Cycle number: 1133
+P2 Cycle number: 1134 - 168 is a multiple of 3
+P2 Cycle number: 1135
+P2 Cycle number: 1136
+P2 Cycle number: 1137 - 165 is a multiple of 3
+P2 Cycle number: 1138
+P2 Cycle number: 1139
+P2 Cycle number: 1140 - 162 is a multiple of 3
+P2 Cycle number: 1141
+P2 Cycle number: 1142
+P2 Cycle number: 1143 - 159 is a multiple of 3
+P2 Cycle number: 1144
+P2 Cycle number: 1145
+P2 Cycle number: 1146 - 156 is a multiple of 3
+P2 Cycle number: 1147
+P2 Cycle number: 1148
+P2 Cycle number: 1149 - 153 is a multiple of 3
+P2 Cycle number: 1150
+P2 Cycle number: 1151
+P2 Cycle number: 1152 - 150 is a multiple of 3
+P2 Cycle number: 1153
+P2 Cycle number: 1154
+P2 Cycle number: 1155 - 147 is a multiple of 3
+P2 Cycle number: 1156
+P2 Cycle number: 1157
+P2 Cycle number: 1158 - 144 is a multiple of 3
+P2 Cycle number: 1159
+P2 Cycle number: 1160
+P2 Cycle number: 1161 - 141 is a multiple of 3
+P2 Cycle number: 1162
+P2 Cycle number: 1163
+P2 Cycle number: 1164 - 138 is a multiple of 3
+P2 Cycle number: 1165
+P2 Cycle number: 1166
+P2 Cycle number: 1167 - 135 is a multiple of 3
+P2 Cycle number: 1168
+P2 Cycle number: 1169
+P2 Cycle number: 1170 - 132 is a multiple of 3
+P2 Cycle number: 1171
+P2 Cycle number: 1172
+P2 Cycle number: 1173 - 129 is a multiple of 3
+P2 Cycle number: 1174
+P2 Cycle number: 1175
+P2 Cycle number: 1176 - 126 is a multiple of 3
+P2 Cycle number: 1177
+P2 Cycle number: 1178
+P2 Cycle number: 1179 - 123 is a multiple of 3
+P2 Cycle number: 1180
+P2 Cycle number: 1181
+P2 Cycle number: 1182 - 120 is a multiple of 3
+P2 Cycle number: 1183
+P2 Cycle number: 1184
+P2 Cycle number: 1185 - 117 is a multiple of 3
+P2 Cycle number: 1186
+P2 Cycle number: 1187
+P2 Cycle number: 1188 - 114 is a multiple of 3
+P2 Cycle number: 1189
+P2 Cycle number: 1190
+P2 Cycle number: 1191 - 111 is a multiple of 3
+P2 Cycle number: 1192
+P2 Cycle number: 1193
+P2 Cycle number: 1194 - 108 is a multiple of 3
+P2 Cycle number: 1195
+P2 Cycle number: 1196
+P2 Cycle number: 1197 - 105 is a multiple of 3
+P2 Cycle number: 1198
+P2 Cycle number: 1199
+P2 Cycle number: 1200 - 102 is a multiple of 3
+P2 Cycle number: 1201
+P2 Cycle number: 1202
+P2 Cycle number: 1203 - 99 is a multiple of 3
+P2 Cycle number: 1204
+P2 Cycle number: 1205
+P2 Cycle number: 1206 - 96 is a multiple of 3
+P2 Cycle number: 1207
+P2 Cycle number: 1208
+P2 Cycle number: 1209 - 93 is a multiple of 3
+P2 Cycle number: 1210
+P2 Cycle number: 1211
+P2 Cycle number: 1212 - 90 is a multiple of 3
+P2 Cycle number: 1213
+P2 Cycle number: 1214
+P2 Cycle number: 1215 - 87 is a multiple of 3
+P2 Cycle number: 1216
+P2 Cycle number: 1217
+P2 Cycle number: 1218 - 84 is a multiple of 3
+P2 Cycle number: 1219
+P2 Cycle number: 1220
+P2 Cycle number: 1221 - 81 is a multiple of 3
+P2 Cycle number: 1222
+P2 Cycle number: 1223
+P2 Cycle number: 1224 - 78 is a multiple of 3
+P2 Cycle number: 1225
+P2 Cycle number: 1226
+P2 Cycle number: 1227 - 75 is a multiple of 3
+P2 Cycle number: 1228
+P2 Cycle number: 1229
+P2 Cycle number: 1230 - 72 is a multiple of 3
+P2 Cycle number: 1231
+P2 Cycle number: 1232
+P2 Cycle number: 1233 - 69 is a multiple of 3
+P2 Cycle number: 1234
+P2 Cycle number: 1235
+P2 Cycle number: 1236 - 66 is a multiple of 3
+P2 Cycle number: 1237
+P2 Cycle number: 1238
+P2 Cycle number: 1239 - 63 is a multiple of 3
+P2 Cycle number: 1240
+P2 Cycle number: 1241
+P2 Cycle number: 1242 - 60 is a multiple of 3
+P2 Cycle number: 1243
+P2 Cycle number: 1244
+P2 Cycle number: 1245 - 57 is a multiple of 3
+P2 Cycle number: 1246
+P2 Cycle number: 1247
+P2 Cycle number: 1248 - 54 is a multiple of 3
+P2 Cycle number: 1249
+P2 Cycle number: 1250
+P2 Cycle number: 1251 - 51 is a multiple of 3
+P2 Cycle number: 1252
+P2 Cycle number: 1253
+P2 Cycle number: 1254 - 48 is a multiple of 3
+P2 Cycle number: 1255
+P2 Cycle number: 1256
+P2 Cycle number: 1257 - 45 is a multiple of 3
+P2 Cycle number: 1258
+P2 Cycle number: 1259
+P2 Cycle number: 1260 - 42 is a multiple of 3
+P2 Cycle number: 1261
+P2 Cycle number: 1262
+P2 Cycle number: 1263 - 39 is a multiple of 3
+P2 Cycle number: 1264
+P2 Cycle number: 1265
+P2 Cycle number: 1266 - 36 is a multiple of 3
+P2 Cycle number: 1267
+P2 Cycle number: 1268
+P2 Cycle number: 1269 - 33 is a multiple of 3
+P2 Cycle number: 1270
+P2 Cycle number: 1271
+P2 Cycle number: 1272 - 30 is a multiple of 3
+P2 Cycle number: 1273
+P2 Cycle number: 1274
+P2 Cycle number: 1275 - 27 is a multiple of 3
+P2 Cycle number: 1276
+P2 Cycle number: 1277
+P2 Cycle number: 1278 - 24 is a multiple of 3
+P2 Cycle number: 1279
+P2 Cycle number: 1280
+P2 Cycle number: 1281 - 21 is a multiple of 3
+P2 Cycle number: 1282
+P2 Cycle number: 1283
+P2 Cycle number: 1284 - 18 is a multiple of 3
+P2 Cycle number: 1285
+P2 Cycle number: 1286
+P2 Cycle number: 1287 - 15 is a multiple of 3
+P2 Cycle number: 1288
+P2 Cycle number: 1289
+P2 Cycle number: 1290 - 12 is a multiple of 3
+P2 Cycle number: 1291
+P2 Cycle number: 1292
+P2 Cycle number: 1293 - 9 is a multiple of 3
+P2 Cycle number: 1294
+P2 Cycle number: 1295
+P2 Cycle number: 1296 - 6 is a multiple of 3
+P2 Cycle number: 1297
+P2 Cycle number: 1298
+P2 Cycle number: 1299 - 3 is a multiple of 3
+P2 Cycle number: 1300
+P2 Cycle number: 1301
+P2 Cycle number: 1302 - 0 is a multiple of 3
+P2 Cycle number: 1303
+P2 Cycle number: 1304
+P2 Cycle number: 1305 - -3 is a multiple of 3
+P2 Cycle number: 1306
+P2 Cycle number: 1307
+P2 Cycle number: 1308 - -6 is a multiple of 3
+P2 Cycle number: 1309
+P2 Cycle number: 1310
+P2 Cycle number: 1311 - -9 is a multiple of 3
+P2 Cycle number: 1312
+P2 Cycle number: 1313
+P2 Cycle number: 1314 - -12 is a multiple of 3
+P2 Cycle number: 1315
+P2 Cycle number: 1316
+P2 Cycle number: 1317 - -15 is a multiple of 3
+P2 Cycle number: 1318
+P2 Cycle number: 1319
+P2 Cycle number: 1320 - -18 is a multiple of 3
+P2 Cycle number: 1321
+P2 Cycle number: 1322
+P2 Cycle number: 1323 - -21 is a multiple of 3
+P2 Cycle number: 1324
+P2 Cycle number: 1325
+P2 Cycle number: 1326 - -24 is a multiple of 3
+P2 Cycle number: 1327
+P2 Cycle number: 1328
+P2 Cycle number: 1329 - -27 is a multiple of 3
+P2 Cycle number: 1330
+P2 Cycle number: 1331
+P2 Cycle number: 1332 - -30 is a multiple of 3
+P2 Cycle number: 1333
+P2 Cycle number: 1334
+P2 Cycle number: 1335 - -33 is a multiple of 3
+P2 Cycle number: 1336
+P2 Cycle number: 1337
+P2 Cycle number: 1338 - -36 is a multiple of 3
+P2 Cycle number: 1339
+P2 Cycle number: 1340
+P2 Cycle number: 1341 - -39 is a multiple of 3
+P2 Cycle number: 1342
+P2 Cycle number: 1343
+P2 Cycle number: 1344 - -42 is a multiple of 3
+P2 Cycle number: 1345
+P2 Cycle number: 1346
+P2 Cycle number: 1347 - -45 is a multiple of 3
+P2 Cycle number: 1348
+P2 Cycle number: 1349
+P2 Cycle number: 1350 - -48 is a multiple of 3
+P2 Cycle number: 1351
+P2 Cycle number: 1352
+P2 Cycle number: 1353 - -51 is a multiple of 3
+P2 Cycle number: 1354
+P2 Cycle number: 1355
+P2 Cycle number: 1356 - -54 is a multiple of 3
+P2 Cycle number: 1357
+P2 Cycle number: 1358
+P2 Cycle number: 1359 - -57 is a multiple of 3
+P2 Cycle number: 1360
+P2 Cycle number: 1361
+P2 Cycle number: 1362 - -60 is a multiple of 3
+P2 Cycle number: 1363
+P2 Cycle number: 1364
+P2 Cycle number: 1365 - -63 is a multiple of 3
+P2 Cycle number: 1366
+P2 Cycle number: 1367
+P2 Cycle number: 1368 - -66 is a multiple of 3
+P2 Cycle number: 1369
+P2 Cycle number: 1370
+P2 Cycle number: 1371 - -69 is a multiple of 3
+P2 Cycle number: 1372
+P2 Cycle number: 1373
+P2 Cycle number: 1374 - -72 is a multiple of 3
+P2 Cycle number: 1375
+P2 Cycle number: 1376
+P2 Cycle number: 1377 - -75 is a multiple of 3
+P2 Cycle number: 1378
+P2 Cycle number: 1379
+P2 Cycle number: 1380 - -78 is a multiple of 3
+P2 Cycle number: 1381
+P2 Cycle number: 1382
+P2 Cycle number: 1383 - -81 is a multiple of 3
+P2 Cycle number: 1384
+P2 Cycle number: 1385
+P2 Cycle number: 1386 - -84 is a multiple of 3
+P2 Cycle number: 1387
+P2 Cycle number: 1388
+P2 Cycle number: 1389 - -87 is a multiple of 3
+P2 Cycle number: 1390
+P2 Cycle number: 1391
+P2 Cycle number: 1392 - -90 is a multiple of 3
+P2 Cycle number: 1393
+P2 Cycle number: 1394
+P2 Cycle number: 1395 - -93 is a multiple of 3
+P2 Cycle number: 1396
+P2 Cycle number: 1397
+P2 Cycle number: 1398 - -96 is a multiple of 3
+P2 Cycle number: 1399
+P2 Cycle number: 1400
+P2 Cycle number: 1401 - -99 is a multiple of 3
+P2 Cycle number: 1402
+P2 Cycle number: 1403
+P2 Cycle number: 1404 - -102 is a multiple of 3
+P2 Cycle number: 1405
+P2 Cycle number: 1406
+P2 Cycle number: 1407 - -105 is a multiple of 3
+P2 Cycle number: 1408
+P2 Cycle number: 1409
+P2 Cycle number: 1410 - -108 is a multiple of 3
+P2 Cycle number: 1411
+P2 Cycle number: 1412
+P2 Cycle number: 1413 - -111 is a multiple of 3
+P2 Cycle number: 1414
+P2 Cycle number: 1415
+P2 Cycle number: 1416 - -114 is a multiple of 3
+P2 Cycle number: 1417
+P2 Cycle number: 1418
+P2 Cycle number: 1419 - -117 is a multiple of 3
+P2 Cycle number: 1420
+P2 Cycle number: 1421
+P2 Cycle number: 1422 - -120 is a multiple of 3
+P2 Cycle number: 1423
+P2 Cycle number: 1424
+P2 Cycle number: 1425 - -123 is a multiple of 3
+P2 Cycle number: 1426
+P2 Cycle number: 1427
+P2 Cycle number: 1428 - -126 is a multiple of 3
+P2 Cycle number: 1429
+P2 Cycle number: 1430
+P2 Cycle number: 1431 - -129 is a multiple of 3
+P2 Cycle number: 1432
+P2 Cycle number: 1433
+P2 Cycle number: 1434 - -132 is a multiple of 3
+P2 Cycle number: 1435
+P2 Cycle number: 1436
+P2 Cycle number: 1437 - -135 is a multiple of 3
+P2 Cycle number: 1438
+P2 Cycle number: 1439
+P2 Cycle number: 1440 - -138 is a multiple of 3
+P2 Cycle number: 1441
+P2 Cycle number: 1442
+P2 Cycle number: 1443 - -141 is a multiple of 3
+P2 Cycle number: 1444
+P2 Cycle number: 1445
+P2 Cycle number: 1446 - -144 is a multiple of 3
+P2 Cycle number: 1447
+P2 Cycle number: 1448
+P2 Cycle number: 1449 - -147 is a multiple of 3
+P2 Cycle number: 1450
+P2 Cycle number: 1451
+P2 Cycle number: 1452 - -150 is a multiple of 3
+P2 Cycle number: 1453
+P2 Cycle number: 1454
+P2 Cycle number: 1455 - -153 is a multiple of 3
+P2 Cycle number: 1456
+P2 Cycle number: 1457
+P2 Cycle number: 1458 - -156 is a multiple of 3
+P2 Cycle number: 1459
+P2 Cycle number: 1460
+P2 Cycle number: 1461 - -159 is a multiple of 3
+P2 Cycle number: 1462
+P2 Cycle number: 1463
+P2 Cycle number: 1464 - -162 is a multiple of 3
+P2 Cycle number: 1465
+P2 Cycle number: 1466
+P2 Cycle number: 1467 - -165 is a multiple of 3
+P2 Cycle number: 1468
+P2 Cycle number: 1469
+P2 Cycle number: 1470 - -168 is a multiple of 3
+P2 Cycle number: 1471
+P2 Cycle number: 1472
+P2 Cycle number: 1473 - -171 is a multiple of 3
+P2 Cycle number: 1474
+P2 Cycle number: 1475
+P2 Cycle number: 1476 - -174 is a multiple of 3
+P2 Cycle number: 1477
+P2 Cycle number: 1478
+P2 Cycle number: 1479 - -177 is a multiple of 3
+P2 Cycle number: 1480
+P2 Cycle number: 1481
+P2 Cycle number: 1482 - -180 is a multiple of 3
+P2 Cycle number: 1483
+P2 Cycle number: 1484
+P2 Cycle number: 1485 - -183 is a multiple of 3
+P2 Cycle number: 1486
+P2 Cycle number: 1487
+P2 Cycle number: 1488 - -186 is a multiple of 3
+P2 Cycle number: 1489
+P2 Cycle number: 1490
+P2 Cycle number: 1491 - -189 is a multiple of 3
+P2 Cycle number: 1492
+P2 Cycle number: 1493
+P2 Cycle number: 1494 - -192 is a multiple of 3
+P2 Cycle number: 1495
+P2 Cycle number: 1496
+P2 Cycle number: 1497 - -195 is a multiple of 3
+P2 Cycle number: 1498
+P2 Cycle number: 1499
+P2 Cycle number: 1500 - -198 is a multiple of 3
+P2 Cycle number: 1501
+P2 Cycle number: 1502
+P2 Cycle number: 1503 - -201 is a multiple of 3
+P2 Cycle number: 1504
+P2 Cycle number: 1505
+P2 Cycle number: 1506 - -204 is a multiple of 3
+P2 Cycle number: 1507
+P2 Cycle number: 1508
+P2 Cycle number: 1509 - -207 is a multiple of 3
+P2 Cycle number: 1510
+P2 Cycle number: 1511
+P2 Cycle number: 1512 - -210 is a multiple of 3
+P2 Cycle number: 1513
+P2 Cycle number: 1514
+P2 Cycle number: 1515 - -213 is a multiple of 3
+P2 Cycle number: 1516
+P2 Cycle number: 1517
+P2 Cycle number: 1518 - -216 is a multiple of 3
+P2 Cycle number: 1519
+P2 Cycle number: 1520
+P2 Cycle number: 1521 - -219 is a multiple of 3
+P2 Cycle number: 1522
+P2 Cycle number: 1523
+P2 Cycle number: 1524 - -222 is a multiple of 3
+P2 Cycle number: 1525
+P2 Cycle number: 1526
+P2 Cycle number: 1527 - -225 is a multiple of 3
+P2 Cycle number: 1528
+P2 Cycle number: 1529
+P2 Cycle number: 1530 - -228 is a multiple of 3
+P2 Cycle number: 1531
+P2 Cycle number: 1532
+P2 Cycle number: 1533 - -231 is a multiple of 3
+P2 Cycle number: 1534
+P2 Cycle number: 1535
+P2 Cycle number: 1536 - -234 is a multiple of 3
+P2 Cycle number: 1537
+P2 Cycle number: 1538
+P2 Cycle number: 1539 - -237 is a multiple of 3
+P2 Cycle number: 1540
+P2 Cycle number: 1541
+P2 Cycle number: 1542 - -240 is a multiple of 3
+P2 Cycle number: 1543
+P2 Cycle number: 1544
+P2 Cycle number: 1545 - -243 is a multiple of 3
+P2 Cycle number: 1546
+P2 Cycle number: 1547
+P2 Cycle number: 1548 - -246 is a multiple of 3
+P2 Cycle number: 1549
+P2 Cycle number: 1550
+P2 Cycle number: 1551 - -249 is a multiple of 3
+P2 Cycle number: 1552
+P2 Cycle number: 1553
+P2 Cycle number: 1554 - -252 is a multiple of 3
+P2 Cycle number: 1555
+P2 Cycle number: 1556
+P2 Cycle number: 1557 - -255 is a multiple of 3
+P2 Cycle number: 1558
+P2 Cycle number: 1559
+P2 Cycle number: 1560 - -258 is a multiple of 3
+P2 Cycle number: 1561
+P2 Cycle number: 1562
+P2 Cycle number: 1563 - -261 is a multiple of 3
+P2 Cycle number: 1564
+P2 Cycle number: 1565
+P2 Cycle number: 1566 - -264 is a multiple of 3
+P2 Cycle number: 1567
+P2 Cycle number: 1568
+P2 Cycle number: 1569 - -267 is a multiple of 3
+P2 Cycle number: 1570
+P2 Cycle number: 1571
+P2 Cycle number: 1572 - -270 is a multiple of 3
+P2 Cycle number: 1573
+P2 Cycle number: 1574
+P2 Cycle number: 1575 - -273 is a multiple of 3
+P2 Cycle number: 1576
+P2 Cycle number: 1577
+P2 Cycle number: 1578 - -276 is a multiple of 3
+P2 Cycle number: 1579
+P2 Cycle number: 1580
+P2 Cycle number: 1581 - -279 is a multiple of 3
+P2 Cycle number: 1582
+P2 Cycle number: 1583
+P2 Cycle number: 1584 - -282 is a multiple of 3
+P2 Cycle number: 1585
+P2 Cycle number: 1586
+P2 Cycle number: 1587 - -285 is a multiple of 3
+P2 Cycle number: 1588
+P2 Cycle number: 1589
+P2 Cycle number: 1590 - -288 is a multiple of 3
+P2 Cycle number: 1591
+P2 Cycle number: 1592
+P2 Cycle number: 1593 - -291 is a multiple of 3
+P2 Cycle number: 1594
+P2 Cycle number: 1595
+P2 Cycle number: 1596 - -294 is a multiple of 3
+P2 Cycle number: 1597
+P2 Cycle number: 1598
+P2 Cycle number: 1599 - -297 is a multiple of 3
+P2 Cycle number: 1600
+P2 Cycle number: 1601
+P2 Cycle number: 1602 - -300 is a multiple of 3
+P2 Cycle number: 1603
+P2 Cycle number: 1604
+P2 Cycle number: 1605 - -303 is a multiple of 3
+P2 Cycle number: 1606
+P2 Cycle number: 1607
+P2 Cycle number: 1608 - -306 is a multiple of 3
+P2 Cycle number: 1609
+P2 Cycle number: 1610
+P2 Cycle number: 1611 - -309 is a multiple of 3
+P2 Cycle number: 1612
+P2 Cycle number: 1613
+P2 Cycle number: 1614 - -312 is a multiple of 3
+P2 Cycle number: 1615
+P2 Cycle number: 1616
+P2 Cycle number: 1617 - -315 is a multiple of 3
+P2 Cycle number: 1618
+P2 Cycle number: 1619
+P2 Cycle number: 1620 - -318 is a multiple of 3
+P2 Cycle number: 1621
+P2 Cycle number: 1622
+P2 Cycle number: 1623 - -321 is a multiple of 3
+P2 Cycle number: 1624
+P2 Cycle number: 1625
+P2 Cycle number: 1626 - -324 is a multiple of 3
+P2 Cycle number: 1627
+P2 Cycle number: 1628
+P2 Cycle number: 1629 - -327 is a multiple of 3
+P2 Cycle number: 1630
+P2 Cycle number: 1631
+P2 Cycle number: 1632 - -330 is a multiple of 3
+P2 Cycle number: 1633
+P2 Cycle number: 1634
+P2 Cycle number: 1635 - -333 is a multiple of 3
+P2 Cycle number: 1636
+P2 Cycle number: 1637
+P2 Cycle number: 1638 - -336 is a multiple of 3
+P2 Cycle number: 1639
+P2 Cycle number: 1640
+P2 Cycle number: 1641 - -339 is a multiple of 3
+P2 Cycle number: 1642
+P2 Cycle number: 1643
+P2 Cycle number: 1644 - -342 is a multiple of 3
+P2 Cycle number: 1645
+P2 Cycle number: 1646
+P2 Cycle number: 1647 - -345 is a multiple of 3
+P2 Cycle number: 1648
+P2 Cycle number: 1649
+P2 Cycle number: 1650 - -348 is a multiple of 3
+P2 Cycle number: 1651
+P2 Cycle number: 1652
+P2 Cycle number: 1653 - -351 is a multiple of 3
+P2 Cycle number: 1654
+P2 Cycle number: 1655
+P2 Cycle number: 1656 - -354 is a multiple of 3
+P2 Cycle number: 1657
+P2 Cycle number: 1658
+P2 Cycle number: 1659 - -357 is a multiple of 3
+P2 Cycle number: 1660
+P2 Cycle number: 1661
+P2 Cycle number: 1662 - -360 is a multiple of 3
+P2 Cycle number: 1663
+P2 Cycle number: 1664
+P2 Cycle number: 1665 - -363 is a multiple of 3
+P2 Cycle number: 1666
+P2 Cycle number: 1667
+P2 Cycle number: 1668 - -366 is a multiple of 3
+P2 Cycle number: 1669
+P2 Cycle number: 1670
+P2 Cycle number: 1671 - -369 is a multiple of 3
+P2 Cycle number: 1672
+P2 Cycle number: 1673
+P2 Cycle number: 1674 - -372 is a multiple of 3
+P2 Cycle number: 1675
+P2 Cycle number: 1676
+P2 Cycle number: 1677 - -375 is a multiple of 3
+P2 Cycle number: 1678
+P2 Cycle number: 1679
+P2 Cycle number: 1680 - -378 is a multiple of 3
+P2 Cycle number: 1681
+P2 Cycle number: 1682
+P2 Cycle number: 1683 - -381 is a multiple of 3
+P2 Cycle number: 1684
+P2 Cycle number: 1685
+P2 Cycle number: 1686 - -384 is a multiple of 3
+P2 Cycle number: 1687
+P2 Cycle number: 1688
+P2 Cycle number: 1689 - -387 is a multiple of 3
+P2 Cycle number: 1690
+P2 Cycle number: 1691
+P2 Cycle number: 1692 - -390 is a multiple of 3
+P2 Cycle number: 1693
+P2 Cycle number: 1694
+P2 Cycle number: 1695 - -393 is a multiple of 3
+P2 Cycle number: 1696
+P2 Cycle number: 1697
+P2 Cycle number: 1698 - -396 is a multiple of 3
+P2 Cycle number: 1699
+P2 Cycle number: 1700
+P2 Cycle number: 1701 - -399 is a multiple of 3
+P2 Cycle number: 1702
+P2 Cycle number: 1703
+P2 Cycle number: 1704 - -402 is a multiple of 3
+P2 Cycle number: 1705
+P2 Cycle number: 1706
+P2 Cycle number: 1707 - -405 is a multiple of 3
+P2 Cycle number: 1708
+P2 Cycle number: 1709
+P2 Cycle number: 1710 - -408 is a multiple of 3
+P2 Cycle number: 1711
+P2 Cycle number: 1712
+P2 Cycle number: 1713 - -411 is a multiple of 3
+P2 Cycle number: 1714
+P2 Cycle number: 1715
+P2 Cycle number: 1716 - -414 is a multiple of 3
+P2 Cycle number: 1717
+P2 Cycle number: 1718
+P2 Cycle number: 1719 - -417 is a multiple of 3
+P2 Cycle number: 1720
+P2 Cycle number: 1721
+P2 Cycle number: 1722 - -420 is a multiple of 3
+P2 Cycle number: 1723
+P2 Cycle number: 1724
+P2 Cycle number: 1725 - -423 is a multiple of 3
+P2 Cycle number: 1726
+P2 Cycle number: 1727
+P2 Cycle number: 1728 - -426 is a multiple of 3
+P2 Cycle number: 1729
+P2 Cycle number: 1730
+P2 Cycle number: 1731 - -429 is a multiple of 3
+P2 Cycle number: 1732
+P2 Cycle number: 1733
+P2 Cycle number: 1734 - -432 is a multiple of 3
+P2 Cycle number: 1735
+P2 Cycle number: 1736
+P2 Cycle number: 1737 - -435 is a multiple of 3
+P2 Cycle number: 1738
+P2 Cycle number: 1739
+P2 Cycle number: 1740 - -438 is a multiple of 3
+P2 Cycle number: 1741
+P2 Cycle number: 1742
+P2 Cycle number: 1743 - -441 is a multiple of 3
+P2 Cycle number: 1744
+P2 Cycle number: 1745
+P2 Cycle number: 1746 - -444 is a multiple of 3
+P2 Cycle number: 1747
+P2 Cycle number: 1748
+P2 Cycle number: 1749 - -447 is a multiple of 3
+P2 Cycle number: 1750
+P2 Cycle number: 1751
+P2 Cycle number: 1752 - -450 is a multiple of 3
+P2 Cycle number: 1753
+P2 Cycle number: 1754
+P2 Cycle number: 1755 - -453 is a multiple of 3
+P2 Cycle number: 1756
+P2 Cycle number: 1757
+P2 Cycle number: 1758 - -456 is a multiple of 3
+P2 Cycle number: 1759
+P2 Cycle number: 1760
+P2 Cycle number: 1761 - -459 is a multiple of 3
+P2 Cycle number: 1762
+P2 Cycle number: 1763
+P2 Cycle number: 1764 - -462 is a multiple of 3
+P2 Cycle number: 1765
+P2 Cycle number: 1766
+P2 Cycle number: 1767 - -465 is a multiple of 3
+P2 Cycle number: 1768
+P2 Cycle number: 1769
+P2 Cycle number: 1770 - -468 is a multiple of 3
+P2 Cycle number: 1771
+P2 Cycle number: 1772
+P2 Cycle number: 1773 - -471 is a multiple of 3
+P2 Cycle number: 1774
+P2 Cycle number: 1775
+P2 Cycle number: 1776 - -474 is a multiple of 3
+P2 Cycle number: 1777
+P2 Cycle number: 1778
+P2 Cycle number: 1779 - -477 is a multiple of 3
+P2 Cycle number: 1780
+P2 Cycle number: 1781
+P2 Cycle number: 1782 - -480 is a multiple of 3
+P2 Cycle number: 1783
+P2 Cycle number: 1784
+P2 Cycle number: 1785 - -483 is a multiple of 3
+P2 Cycle number: 1786
+P2 Cycle number: 1787
+P2 Cycle number: 1788 - -486 is a multiple of 3
+P2 Cycle number: 1789
+P2 Cycle number: 1790
+P2 Cycle number: 1791 - -489 is a multiple of 3
+P2 Cycle number: 1792
+P2 Cycle number: 1793
+P2 Cycle number: 1794 - -492 is a multiple of 3
+P2 Cycle number: 1795
+P2 Cycle number: 1796
+P2 Cycle number: 1797 - -495 is a multiple of 3
+P2 Cycle number: 1798
+P2 Cycle number: 1799
+P2 Cycle number: 1800 - -498 is a multiple of 3
+P2 Cycle number: 1801
+P2 Cycle number: 1802
+
+child reached -500 exiting
+parent exiting.
