@@ -1,5 +1,5 @@
 /**
- * SYSC4001 Assignment 2
+ * SYSC4001 Assignment 2 Question 1
  * Zachary Gallant 101272210
  * Joseph Dereje 101316700
  */
